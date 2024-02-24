@@ -1,5 +1,6 @@
 - Hi, I’m @AsaylAlwadani
-- I’m interested in Data Science
+- Department of Software Engineering
+- I’m interested in Data Science & Artificial intelligence
 - I’m currently learning Data Analysis
 - LinkedIn:
  https://www.linkedin.com/in/asayil-s-alwadani-76397b215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
