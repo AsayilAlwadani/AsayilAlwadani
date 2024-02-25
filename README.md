@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asayil Alwadani</h1>
-<h3 align="center">Department of Software Engineering Data analyst.</h3>
+<h3 align="center">Department of Software Engineering | Data analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayilalwadani&label=Profile%20views&color=0e75b6&style=flat" alt="asayilalwadani" /> </p>
 
