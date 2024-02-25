@@ -1,4 +1,4 @@
-- Hi, I’m @AsaylAlwadani
+- Hi, I’m @AsayilAlwadani
 - Department of Software Engineering
 - I’m interested in Data Science & Artificial intelligence
 - I’m currently learning Data Analysis
