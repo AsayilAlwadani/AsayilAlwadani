@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asayil Alwadani</h1>
-<h3 align="center">As a fresh graduate with cooperative training experience seeking a transition from software engineering to data analysis, I bring a diverse skill set and practical knowledge gained during my training period. I aim to leverage my technical background and analytical skills to pursue a career in data analysis, where I can apply my problem-solving abilities and attention to detail to extract insights from data and drive informed decision-making.nd developer from India</h3>
+<h3 align="center">As a fresh graduate with cooperative training experience seeking a transition from software engineering to data analysis, I bring a diverse skill set and practical knowledge gained during my training period. I aim to leverage my technical background and analytical skills to pursue a career in data analysis, where I can apply my problem-solving abilities and attention to detail to extract insights from data and drive informed decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayilalwadani&label=Profile%20views&color=0e75b6&style=flat" alt="asayilalwadani" /> </p>
 
